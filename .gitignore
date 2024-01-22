@@ -11,10 +11,13 @@
 # production
 /build
 
-# .gitignore
+<<<<<<< HEAD
+#.gitignore
 .env
 
 
+=======
+>>>>>>> 07681f7 (Initialize project using Create React App)
 # misc
 .DS_Store
 .env.local
@@ -25,4 +28,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 .vercel
+=======
+>>>>>>> 07681f7 (Initialize project using Create React App)
