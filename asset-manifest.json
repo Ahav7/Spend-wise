@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ahav7/Spend-wise.git/static/css/main.0328a539.css",
+    "main.js": "/Ahav7/Spend-wise.git/static/js/main.81a97b76.js",
+    "static/js/787.91830cf8.chunk.js": "/Ahav7/Spend-wise.git/static/js/787.91830cf8.chunk.js",
+    "index.html": "/Ahav7/Spend-wise.git/index.html",
+    "main.0328a539.css.map": "/Ahav7/Spend-wise.git/static/css/main.0328a539.css.map",
+    "main.81a97b76.js.map": "/Ahav7/Spend-wise.git/static/js/main.81a97b76.js.map",
+    "787.91830cf8.chunk.js.map": "/Ahav7/Spend-wise.git/static/js/787.91830cf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0328a539.css",
+    "static/js/main.81a97b76.js"
+  ]
+}
