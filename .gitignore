@@ -13,13 +13,10 @@
 # production
 /build
 
-<<<<<<< HEAD
 #.gitignore
 .env
 
 
-=======
->>>>>>> 07681f7 (Initialize project using Create React App)
 # misc
 .DS_Store
 .env.local
